@@ -1,0 +1,84 @@
+body{
+    background: rgb(93, 232, 170);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 700px;
+    margin: auto;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.Row{
+    width: 700px;
+    height: 70px;
+    margin: auto;
+}
+
+.Cell{
+    width: 64px;
+    height: 70px;
+    display: inline-block;
+    margin: auto;
+}
+
+.GoBackButton{
+    width: fit-content;
+    margin: auto;
+}
+
+.LegendaryFish{
+    display: block;
+    margin: auto;
+}
+
+.FormDiv{
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    width: 227px;
+}
+
+.SelectBoxForm{
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    width: 175px;
+}
+
+.Button{
+    display: block;
+    margin: auto;
+}
+
+.FishPageImage{
+    width: 16px;
+    height: 16px;
+    display: inline;
+    margin: auto;
+}
+
+.FishPageGroup{
+    font-weight: bold;
+    display: inline;
+}
+
+.FishPageText{
+    display: inline;
+}
